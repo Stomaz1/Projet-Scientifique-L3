@@ -7,9 +7,6 @@ Ce projet est le rendu du projet demandé dans l'UE X32I130 Projet d'informatiqu
 - 📦 [Prérequis](#prérequis)
 - 🚀 [Installation](#installation)
 - 🛠️ [Utilisation](#utilisation)
-- 🤝 [Contribution](#contribution)
-- 🏗️ [Construit avec](#construit-avec)
-- 📚 [Documentation](#documentation)
 
 ## Prérequis
 
